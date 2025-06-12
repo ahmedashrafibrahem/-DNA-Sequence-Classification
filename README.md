@@ -1,7 +1,7 @@
 # 🧬 DNA Sequence Classification using Machine Learning
 
 ## 👨‍💻 Author
-**Ahmed Ashraf Ibrahim** (أحمد أشرف إبراهيم)
+**Ahmed Ashraf Ibrahim** 
 
 ### About Me
 Hello there! I'm a passionate technologist and programmer, dedicated to innovation and continuous learning. With a drive for challenges and hard work, I've developed numerous exciting projects in Front End development and beyond.
