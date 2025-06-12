@@ -1,5 +1,34 @@
 # 🧬 DNA Sequence Classification using Machine Learning
 
+## 👨‍💻 Author
+**Ahmed Ashraf Ibrahim** (أحمد أشرف إبراهيم)
+
+### About Me
+Hello there! I'm a passionate technologist and programmer, dedicated to innovation and continuous learning. With a drive for challenges and hard work, I've developed numerous exciting projects in Front End development and beyond.
+
+#### 🛠️ Technical Skills
+- **Programming Languages**: C, C++, Java
+- **Web Development**: Front End Development
+- **Areas of Interest**: 
+  - Network Development & Security
+  - Cybersecurity Fundamentals
+  - Marketing & Digital Strategy
+  - Bioinformatics & Machine Learning
+
+#### 🎯 Professional Focus
+- 🔬 Bioinformatics & Machine Learning Research
+- 🧬 DNA Sequence Analysis
+- 🌐 Network Security
+- 💡 Innovation in Technology
+- 📊 Data Analysis
+
+#### 🚀 Vision
+I'm driven by boundless aspirations in technology and programming. My commitment to professional growth and innovation fuels my journey in developing cutting-edge solutions and expanding my expertise across multiple domains.
+
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ashraf-ibrahim)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ahmedashrafibrahem)
+
 ## Project Overview
 This project implements a machine learning approach to classify DNA sequences based on their gene functions. Using k-mer analysis and Multinomial Naive Bayes classification, we achieved high accuracy in predicting gene functional categories from DNA sequence data.
 
@@ -90,4 +119,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any queries regarding this project, please open an issue in the repository.
 
 ---
-*This project demonstrates the application of machine learning techniques in genomics and bioinformatics, showing promising results for automated gene function prediction.* #
+*This project demonstrates the application of machine learning techniques in genomics and bioinformatics, showing promising results for automated gene function prediction.*
+
